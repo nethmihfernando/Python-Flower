@@ -15,3 +15,5 @@ for i in range(16):
         circle(100 - j * 6, 90)
         rt(180)
     circle(40, 24)
+
+done()
