@@ -15,6 +15,6 @@ The script renders a complex, symmetric flower-like structure where each "petal"
 * **Performance Optimization:** `tracer(10)` is used to speed up the animation by skipping frames, allowing the complex pattern to appear more quickly.
 
 # A glimpse into the color logic
-c = colorsys.hsv_to_rgb(h, 1, 1)
-color(c)
+c = colorsys.hsv_to_rgb(h, 1, 1)<br>
+color(c)<br>
 h += 0.005 # Incremental shift in the color wheel
