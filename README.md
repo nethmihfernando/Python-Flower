@@ -4,6 +4,10 @@ A mesmerizing, mathematically-driven digital art piece created using Python's **
 ## 🎨 Preview
 The script renders a complex, symmetric flower-like structure where each "petal" is drawn using nested circles and precise rotations, cycling through the entire color spectrum.
 
+<p align="center">
+  <img src="image.png" alt="Python Flower" width="500">
+</p>
+
 ## 🚀 How It Works
 * **Recursive-like Looping:** Nested `for` loops handle the repetition of petal layers.
 * **HSV to RGB Conversion:** Uses `colorsys.hsv_to_rgb` to create a smooth, seamless rainbow transition.
